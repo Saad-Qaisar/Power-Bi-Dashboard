@@ -7,7 +7,8 @@ This repository features a comprehensive analysis of the 2024 Data Science job m
     * [Introduction](#introduction)
     * [Skills Showcased](#skills-showcased)
     * [Dashboard Overview](#dashboard-overview)
-* [Data Jobs Dashboard (V2.0 - Single Page)](#introduction-1)
+* [Data Jobs Dashboard (V2.0 - Single Page)](#data-jobs-dashboard-v20)
+    * [Introduction (V2.0)](#introduction-1)
     * [Skills Showcased (V2.0)](#skills-showcased-1)
     * [Dashboard Overview (V2.0)](#dashboard-overview-version-20---single-page-focus)
 
